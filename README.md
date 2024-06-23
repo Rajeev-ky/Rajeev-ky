@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data science projects. 
 - 📫 Reach me at kool11yadav@gmail.com
 - 😄 Pronouns: :)
-- ⚡ Fun fact: Its fund to do data science :)
+- ⚡ Fun fact: Its fun to do data science :)
 
 <!---
 Rajeev-ky/Rajeev-ky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
